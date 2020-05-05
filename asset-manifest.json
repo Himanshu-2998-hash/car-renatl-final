@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/car-rentatl-final/static/css/main.c14df9d6.chunk.css",
+    "main.js": "/car-rentatl-final/static/js/main.feb9da30.chunk.js",
+    "main.js.map": "/car-rentatl-final/static/js/main.feb9da30.chunk.js.map",
+    "runtime-main.js": "/car-rentatl-final/static/js/runtime-main.ec2826dd.js",
+    "runtime-main.js.map": "/car-rentatl-final/static/js/runtime-main.ec2826dd.js.map",
+    "static/js/2.d9fec278.chunk.js": "/car-rentatl-final/static/js/2.d9fec278.chunk.js",
+    "static/js/2.d9fec278.chunk.js.map": "/car-rentatl-final/static/js/2.d9fec278.chunk.js.map",
+    "index.html": "/car-rentatl-final/index.html",
+    "precache-manifest.a7b417e102e139246f2a4588b2e4b1d5.js": "/car-rentatl-final/precache-manifest.a7b417e102e139246f2a4588b2e4b1d5.js",
+    "service-worker.js": "/car-rentatl-final/service-worker.js",
+    "static/css/main.c14df9d6.chunk.css.map": "/car-rentatl-final/static/css/main.c14df9d6.chunk.css.map",
+    "static/js/2.d9fec278.chunk.js.LICENSE.txt": "/car-rentatl-final/static/js/2.d9fec278.chunk.js.LICENSE.txt",
+    "static/media/NA.PNG": "/car-rentatl-final/static/media/NA.f83b2c67.PNG",
+    "static/media/App.css": "/car-rentatl-final/static/media/slider-img-4.de23e13e.jpg",
+    "static/media/car.jpg": "/car-rentatl-final/static/media/car.735f89ca.jpg",
+    "static/media/color.PNG": "/car-rentatl-final/static/media/color.a6089de7.PNG",
+    "static/media/preloader.gif": "/car-rentatl-final/static/media/preloader.6e5fedaa.gif",
+    "static/media/seat.PNG": "/car-rentatl-final/static/media/seat.a80277eb.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec2826dd.js",
+    "static/js/2.d9fec278.chunk.js",
+    "static/css/main.c14df9d6.chunk.css",
+    "static/js/main.feb9da30.chunk.js"
+  ]
+}

@@ -19,7 +19,7 @@ function App() {
     return (
     
     <div>
-      <HashRouter basename="car-renatl-final">
+      <HashRouter basename="/car-renatl-final">
     <Navbar/>
     <Switch>
       <Route exact path="/" component ={Home}/>
